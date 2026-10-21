@@ -1,6 +1,6 @@
 Hi, I'm Aphelele 
 
-Final-year BSc Data Science student at Sol Plaatje University · Johannesburg, South Africa
+Final-year BSc Data Science student at Sol Plaatje University · Northern Cape, South Africa
 
 I build machine learning models and dashboards that turn data into decisions, with a focus on finance: fraud detection, credit risk and business intelligence.
 
@@ -11,6 +11,7 @@ Featured projects
 Project	What it does	Highlights
 Suspicious Transaction Detection	Flags fraud in 636K mobile money transactions	🏆 Hackathon winner · catches 91% of fraud · XGBoost + SHAP
 Credit Risk & Loan Default Prediction	Predicts loan default risk	Capstone project · Power BI + Streamlit app
+Credit Risk Modelling System	Scores loan default risk for the FNB DataQuest	AUC 0.680 → 0.795 with WoE/IV · Streamlit dashboard
 Decode Labs Internship	Fraud detection, customer segmentation	Mentor-reviewed projects
 Future Interns Internship	Sales, marketing funnel and churn dashboards	Power BI · DAX · KPIs
 Tools I use
@@ -23,4 +24,5 @@ Microsoft Power BI Data Analyst · IBM Data Science · Python Institute Python E
 
 Get in touch
 
-LinkedIn · gwebityalaaphelele1@gmail.com
+LinkedIn · https://www.linkedin.com/in/aphelele-siphelele-gwebityala-52516b357
+Email    -gwebityalaaphelele1@gmail.com
